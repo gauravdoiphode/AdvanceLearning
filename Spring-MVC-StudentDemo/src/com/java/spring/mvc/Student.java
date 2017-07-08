@@ -12,7 +12,7 @@ public class Student {
 	
 	private LinkedHashMap<String, String> countryOptions;
 	
-	//Default Constructor
+	//Default Student Constructor 
 	public Student(){
 	
 		countryOptions = new LinkedHashMap<>();
